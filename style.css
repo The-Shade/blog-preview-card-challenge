@@ -23,6 +23,7 @@ body {
 
 .card-picture {
     width: 315px;
+    height: 190px;
     border-radius: 10px;
     margin-bottom: 15px;
 }
