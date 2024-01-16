@@ -74,7 +74,7 @@ p {
     color: hsl(47, 88%, 63%);
 }
 
-@media(max-width: 475){
+@media(min-width: 475){
     #card {
         width: 375px;
         height: 500px;
